@@ -1,10 +1,33 @@
-Enjoy the Free code + Assets 😍
-- Support us on YouTube Channel: [https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ](https://www.youtube.com/@TheCodingJourney)
+# Restaurant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official repository of our restaurant website! This project showcases a modern and interactive website for our restaurant, providing visitors with information about our menu, location, and more.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Restaurant
+- **Interactive Menu:** Browse through our diverse menu with mouth-watering dishes.
+- **Reservation System:** Easily book a table for your dining experience.
+- **Contact Information:** Find our location and contact details for inquiries.
+
+## Screenshots
+
+### Homepage
+![Homepage](Images/1.png)
+
+### Menu
+![Menu](Images/2.png)
+
+### Reservation
+![Responsive](Images/3.png)
+
+## Technologies Used
+
+- Frontend: React.js
+- Styling: Tailwind CSS
+- State Management: Redux
+- ...
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/restaurant-website.git
